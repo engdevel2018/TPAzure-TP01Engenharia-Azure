@@ -8,6 +8,7 @@ Exercicio de Fixação
 
 # Codificação HTML Index
 --------------------------------------------------------------------------------------------------------
+<script>
 <!DOCTYPE html>
 <html>
 <head>
@@ -100,6 +101,7 @@ Exercicio de Fixação
     
 </body>
 </html>
+</script>
 
 # Estrutura de Layout do Exercicio
 -------------------------------------------------------------------------------------------------------------
